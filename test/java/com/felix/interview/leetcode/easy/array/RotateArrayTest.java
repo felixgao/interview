@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.easy.array;
 
 import com.felix.interview.leetcode.easy.array.RotateArray;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
 

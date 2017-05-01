@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.medium.string;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 3/25/17.

@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.backtracking;
 
 import com.felix.interview.leetcode.medium.array.CombinationSum;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 3/9/17.

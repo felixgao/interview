@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.hard.dfs;
 
 import com.felix.interview.leetcode.medium.bfs.SurroundedRegions;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
 

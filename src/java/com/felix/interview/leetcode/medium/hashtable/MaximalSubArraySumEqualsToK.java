@@ -8,6 +8,17 @@ import java.util.Map;
  * 325
  * https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
  *
+ Example 1:
+
+ Given nums = [1, -1, 5, -2, 3], k = 3,
+ return 4. (because the subarray [1, -1, 5, -2] sums to 3 and is the longest)
+
+ Example 2:
+
+ Given nums = [-2, -1, 2, 1], k = 1,
+ return 2. (because the subarray [-1, 2] sums to 1 and is the longest)
+ *
+ *
  * The HashMap stores the sum of all elements before index i as key, and i as value.
  * For each i, check not only the current sum but also (currentSum - previousSum) to see if there is any that equals k,
  * and update max length.

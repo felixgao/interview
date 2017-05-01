@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.dp;
 
 import com.felix.interview.leetcode.medium.array.dp.UniquePath;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 3/5/17.

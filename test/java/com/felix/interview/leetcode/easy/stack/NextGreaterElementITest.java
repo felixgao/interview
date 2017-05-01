@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.easy.stack;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.Arrays;
 

@@ -15,16 +15,16 @@ public class FourSumII {
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
                 int sum  = -(A[i]+B[j]);
-                map.compute(sum, (k,v) -> v == null ? 0 : v + 1);
+                map.put(sum, map.getOrDefault(sum, 0) + 1);
             }
         }
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
                 int sum = C[i] + D[j];
-                result += map.getOrDefault(sum, 0);
+                result += map.getOrDefault(-1 * sum, 0);
             }
         }
-        return 0;
+        return result;
     }
 }

@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.hard.array;
 
 import com.felix.interview.leetcode.easy.array.BestTimeToBuyStock;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/6/17.

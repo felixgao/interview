@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.hard.hashtable;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/11/17.

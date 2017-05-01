@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.hard.dp;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/26/17.

@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.string;
 
 import com.sun.tools.javac.jvm.Gen;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/19/17.

@@ -1,8 +1,8 @@
 package com.felix.interview.leetcode.medium.binarysearch;
 
 import com.felix.interview.leetcode.TreeNode;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
+import org.junit.BeforeClass;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/25/17.
@@ -11,7 +11,7 @@ public class KthSmallestElementInABSTTest {
     KthSmallestElementInABST k = new KthSmallestElementInABST();
     static TreeNode root = new TreeNode(5);
 
-    @BeforeAll
+    @BeforeClass
     static void setup(){
         root.left = new TreeNode(3);
         root.right = new TreeNode(8);

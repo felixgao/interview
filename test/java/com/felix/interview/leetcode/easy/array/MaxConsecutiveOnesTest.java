@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.easy.array;
 
 import com.felix.interview.leetcode.easy.array.MaxConsecutiveOnes;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 1/27/17.

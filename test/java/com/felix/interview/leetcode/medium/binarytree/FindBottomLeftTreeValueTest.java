@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.binarytree;
 
 import com.felix.interview.leetcode.TreeNode;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 3/16/17.

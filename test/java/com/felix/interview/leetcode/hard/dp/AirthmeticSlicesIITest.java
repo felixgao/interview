@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.hard.dp;
 
 import com.felix.interview.leetcode.medium.math.ArithmeticSlices;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/26/17.

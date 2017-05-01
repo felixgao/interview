@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.hard.array;
 
 import com.felix.interview.leetcode.hard.array.FindDuplicate;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 1/24/17.

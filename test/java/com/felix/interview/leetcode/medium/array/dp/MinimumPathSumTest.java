@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.array.dp;
 
 import com.felix.interview.leetcode.medium.array.dp.MinimumPathSum;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/3/17.

@@ -23,12 +23,10 @@ public class LargestRectangleInHistogram {
                 maxArea = Math.max(maxArea,
                         heights[lastPosition] *
                                 //if stack is empty then all of the bars up to i needs to be counted
-                                (positionStack.isEmpty() ? i :
+                                (positionStack.isEmpty() ? i :  i - 1 - positionStack.peek())
                                 // i - 1 for the last position of the bar
                                 // minus the current last highest bar position to find out how many bars we can use
                                 // to compute the area with the least amount of height.
-                                    i - 1 - positionStack.peek()
-                                )
                 );
                 i--; // to compensate for i++ in the for loop. keep pop the position stack if the current value
                 // of i is < than the top of the stack

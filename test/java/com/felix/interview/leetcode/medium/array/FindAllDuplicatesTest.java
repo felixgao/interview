@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.medium.array;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 1/29/17.

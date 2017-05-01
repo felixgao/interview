@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.hard.array;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/8/17.
@@ -22,4 +22,10 @@ public class LargestRectangleInHistogramTest {
     public void test3(){
         System.out.println(l.largestRectangleArea(new int[] {1,3,2,1,2}));
     }
+
+    @Test
+    public void test4(){
+        System.out.println(l.largestRectangleArea(new int[] {1,5,4,6,2}));
+    }
+
 }

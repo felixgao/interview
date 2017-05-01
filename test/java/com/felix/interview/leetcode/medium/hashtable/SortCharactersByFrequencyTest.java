@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.hashtable;
 
 import com.felix.interview.leetcode.medium.hashtable.SortCharactersByFrequency;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/11/17.

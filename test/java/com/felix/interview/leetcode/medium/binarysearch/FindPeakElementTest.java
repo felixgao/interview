@@ -1,7 +1,7 @@
 package com.felix.interview.leetcode.medium.binarysearch;
 
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/25/17.

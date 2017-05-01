@@ -1,6 +1,6 @@
 package com.felix.interview.leetcode.hard.binarysearch;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * Created by felix on 2/20/17.
