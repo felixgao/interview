@@ -11,6 +11,7 @@ public class IsSubsequence {
         for(int i = 0; i < t.length(); i++){
             if(t.charAt(i) == s.charAt(sIndex)){
                 sIndex++;
+                if(sIndex == s.length()) return true;
             }
         }
         return sIndex == s.length();

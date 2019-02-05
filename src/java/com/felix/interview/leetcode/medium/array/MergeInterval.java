@@ -1,6 +1,7 @@
 package com.felix.interview.leetcode.medium.array;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -23,10 +24,10 @@ public class MergeInterval {
 
     public List<Interval> merge(List<Interval> intervals) {
         intervals.sort((a,b) -> {
+//            Comparator.comparingInt(a.start, b.start).thenComparingInt()
             int r = a.start -  b.start;
             if (r == 0){
-                return a.end - b.end
-                        ;
+                return a.end - b.end;
             }
             return r;
         });

@@ -1,1015 +1,308 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="762142d0-ef67-4561-aad7-74c75e6c9181" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/ArrayRearrange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/EditDistance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/Permutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/Sort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/MaxSumOfRectangleNoLargerThanK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/backtracking/RemoveInvalidParenthesis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindCelebrity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/bitmanipulation/MaximumXOROfTwoNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/ValidWordSquare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/programcreek/MedianFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/array/LongestIncreaseSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/array/MaximumSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/backtracking/LongestPossibleRouteInMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/backtracking/PermutationString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/binarytree/LeftView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/binarytree/NextNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/divideConquer/Occurance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/dynamicprogramming/Knapsack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/dynamicprogramming/WordBreak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/matrix/FindPath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/careercup/sde1/ArrayRearrangeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/careercup/sde1/EditDistanceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/careercup/sde1/PermutationStringTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/backtracking/RemoveInvalidParenthesisTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/MaximumXOROfTwoNumbersTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/ValidWordSquareTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/programcreek/MedianFinderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/array/LongestIncreaseSubsequenceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/array/MaximumSubarrayTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/backtracking/LongestPossibleRouteInMatrixTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/backtracking/PermutationStringTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/divideConquer/OccuranceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/dynamicprogramming/KnapsackTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/dynamicprogramming/WordBreakTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/matrix/FindPathTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SparseMatrix.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode.iml" afterPath="$PROJECT_DIR$/leetcode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/FindAllNumbersDisappearedInArray.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/FindAllNumbersDisappearedInArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/RotateArray.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/RotateArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/ShortestWordDistance.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/ShortestWordDistance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/TwoSum.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/TwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/LargestRectangleInHistogram.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/LargestRectangleInHistogram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/string/LongestValidParentheses.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/string/LongestValidParentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/MinimumPathSum.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/MinimumPathSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/UniquePath.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/UniquePath.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddresses.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddresses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/FourSumII.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/FourSumII.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/MaximalSubArraySumEqualsToK.java" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/MaximalSubArraySumEqualsToK.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/BestTimeToBuyStockTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/BestTimeToBuyStockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/FindAllNumbersDisappearedInArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/FindAllNumbersDisappearedInArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MaxConsecutiveOnesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MaxConsecutiveOnesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MaximumSubArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MaximumSubArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MergeSortedArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MergeSortedArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MoveZerosTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/MoveZerosTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/PascalTriangleIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/PascalTriangleIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/PascalTriangleTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/PascalTriangleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/PlusOneTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/PlusOneTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/RemoveDuplicatesFromSortedArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/RemoveDuplicatesFromSortedArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/RemoveElementsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/RemoveElementsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/RotateArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/RotateArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/SearchInsertPositionTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/SearchInsertPositionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/THirdMaxNumberTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/THirdMaxNumberTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/TwoSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/array/TwoSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/BalancedBSTTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/BalancedBSTTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/BinaryTreeLevelOrderTraversal2Test.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/BinaryTreeLevelOrderTraversal2Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/BinaryTreePathTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/BinaryTreePathTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/MinimumDepthOfBinaryTreeTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/MinimumDepthOfBinaryTreeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/PathSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/PathSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/SymmetricTreeTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/binarytree/SymmetricTreeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/dp/ClimbingStairsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/dp/ClimbingStairsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/dp/HouseRobberTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/dp/HouseRobberTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/MyQueueTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/MyQueueTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/MyStackTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/MyStackTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/NextGreaterElementITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/NextGreaterElementITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/ValidParenthesesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/easy/stack/ValidParenthesesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/BestTimeToBuyStockIIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/BestTimeToBuyStockIIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/FindDuplicateTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/FindDuplicateTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/FindMinimumInRotatedArrayIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/FindMinimumInRotatedArrayIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/LargestRectangleInHistogramTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/LargestRectangleInHistogramTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/LongestConsecutiveSequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/LongestConsecutiveSequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/MaximalRectangleTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/MaximalRectangleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/RainWaterTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/RainWaterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/RandomizedCollectionTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/RandomizedCollectionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/backtracking/NQueensTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/backtracking/NQueensTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/binarysearch/MaxSumOfRectangleNoLargerThanKTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/binarysearch/MaxSumOfRectangleNoLargerThanKTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/binarysearch/SplitArrayLargestSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/binarysearch/SplitArrayLargestSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dfs/LongestIncreasePathTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dfs/LongestIncreasePathTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dfs/SurrendedRegionsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dfs/SurrendedRegionsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/AirthmeticSlicesIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/AirthmeticSlicesIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/BestTimeToBuyAndSellStockIVTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/BestTimeToBuyAndSellStockIVTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/BurstBallonsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/BurstBallonsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/CountTheRepetitionsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/CountTheRepetitionsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/DistinctSubsequencesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/DistinctSubsequencesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/DungeonGameTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/DungeonGameTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/FrogJumpTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/FrogJumpTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/LongestPalindromicSubsequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/LongestPalindromicSubsequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/LongestValidParenthesesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/LongestValidParenthesesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/RussianDollEnvelopesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/RussianDollEnvelopesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/WordBreakIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/dp/WordBreakIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/MinimumWIndowSubstringTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/MinimumWIndowSubstringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/PalindromePairsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/PalindromePairsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/RearrangeStringKDistanceApartTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/RearrangeStringKDistanceApartTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/stack/RemoveDuplicateLettersTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/stack/RemoveDuplicateLettersTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/stack/TrappingRainWaterTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/stack/TrappingRainWaterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/EditDistanceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/EditDistanceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/InterleavingStringTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/InterleavingStringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/TextJustificationTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/TextJustificationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/WildcardMatchingTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/string/WildcardMatchingTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/NumberOfIslandsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/NumberOfIslandsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/CombinationSumIIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/CombinationSumIIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/CombinationSumIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/CombinationSumIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/CombinationSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/CombinationSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindAllDuplicatesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindAllDuplicatesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindMinRotatedArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindMinRotatedArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindPeakElementTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindPeakElementTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FourSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FourSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/JumpGameTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/JumpGameTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MaximumProductSubarrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MaximumProductSubarrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MergeIntervalTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MergeIntervalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/RandomizedSetTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/RandomizedSetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/RemoveDuplicateFromSortedArrayIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/RemoveDuplicateFromSortedArrayIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/RotateImageTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/RotateImageTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/Search2DMatrixTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/Search2DMatrixTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SearchRangeTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SearchRangeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SearchRotatedArrayIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SearchRotatedArrayIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SearchRotatedArrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SearchRotatedArrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SortColorsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SortColorsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SpiralMatrixIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SpiralMatrixIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SpiralMatrixTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SpiralMatrixTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SubsetsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SubsetsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SummaryRangesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/SummaryRangesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/ThreeSumClosestTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/ThreeSumClosestTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/ThreeSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/ThreeSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/Vector2DTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/Vector2DTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/WordSearchTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/WordSearchTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/dp/MinimumPathSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/dp/MinimumPathSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/dp/UniquePathIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/dp/UniquePathIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/dp/UniquePathTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/dp/UniquePathTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/CombinationsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/CombinationsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/GrayCodeTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/GrayCodeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/PalindromePartitioningTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/PalindromePartitioningTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/PermutationsIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/PermutationsIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/PermutationsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/PermutationsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddressesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddressesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/SubsetIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/SubsetIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/SubsetTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/backtracking/SubsetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/FindPeakElementTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/FindPeakElementTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/FindRightIntervalTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/FindRightIntervalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/HIndexIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/HIndexIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/IsSubsequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/IsSubsequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInABSTTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInABSTTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrixTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrixTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/LongestIncreaseSubsequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/LongestIncreaseSubsequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrixTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrixTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/BinaryTreeLevelOrderTraversalTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/BinaryTreeLevelOrderTraversalTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/BinaryTreeRightSideViewTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/BinaryTreeRightSideViewTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/FindBottomLeftTreeValueTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/FindBottomLeftTreeValueTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/FindLargestValueInEachTreeRowTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/FindLargestValueInEachTreeRowTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/FlattenBinaryTreeToLinkedListTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/FlattenBinaryTreeToLinkedListTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/MostFrequentSubtreeSumTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/MostFrequentSubtreeSumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/PathSumIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarytree/PathSumIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/BestTimeToBuyAndSellStockWithCooldownTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/BestTimeToBuyAndSellStockWithCooldownTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CoinChangeTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CoinChangeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CombinationSumIVTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CombinationSumIVTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CountingBitsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CountingBitsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CountingNumberOfUniqueDigitsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/CountingNumberOfUniqueDigitsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/HouseRobberIITest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/HouseRobberIITest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/IntegerBreakTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/IntegerBreakTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/IsSubsequeceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/IsSubsequeceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/LargestDivisibleSubsetTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/LargestDivisibleSubsetTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/LongestIncreasingSubsequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/LongestIncreasingSubsequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/MaximalSquareTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/MaximalSquareTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/MaximumProductSubarrayTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/MaximumProductSubarrayTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/PerfectSquaresTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/PerfectSquaresTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/PredictTheWinnerTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/PredictTheWinnerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/TriangleTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/TriangleTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/UniqueBinarySearchTreeTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/UniqueBinarySearchTreeTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/WiggleSubsequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/WiggleSubsequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/WordBreakTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/dp/WordBreakTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/hashtable/GroupShiftedStringTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/hashtable/GroupShiftedStringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/hashtable/SortCharactersByFrequencyTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/hashtable/SortCharactersByFrequencyTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/list/SortListTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/list/SortListTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/math/ArithmeticSlicesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/math/ArithmeticSlicesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/math/MultiplyStringTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/math/MultiplyStringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/math/RotatedFunctionTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/math/RotatedFunctionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/stack/DecodeStringTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/stack/DecodeStringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/stack/RemoveKDigitsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/stack/RemoveKDigitsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/DecodeWaysTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/DecodeWaysTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/GenerateParenthesesTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/GenerateParenthesesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LetterCombinationsOfAPhoneNumberTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LetterCombinationsOfAPhoneNumberTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LongestPalindromSubstringTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LongestPalindromSubstringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LongestSubstringWIthoutRepeatingTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LongestSubstringWIthoutRepeatingTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/OneEditDistanceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/OneEditDistanceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/RepeatedDNASequenceTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/RepeatedDNASequenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/RestoreIpAddressTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/RestoreIpAddressTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/ReverseWordsTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/ReverseWordsTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/SimplyPathTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/SimplyPathTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/ZigZagConversionTest.java" afterPath="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/ZigZagConversionTest.java" />
+    <list default="true" id="6fec0472-c350-4497-961c-7cf3b38321d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/binarytree/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/binarytree/LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindAllDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindAllDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindMinRotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindMinRotatedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MatrixZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MatrixZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MergeInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/LowestCommonAncestorBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/LowestCommonAncestorBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/UniqueBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/UniqueBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/DecodeWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/DecodeWays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/PalindromPermutationII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/PalindromPermutationII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="leetcode" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="313107851">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TargetSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/TargetSum.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/NextPermutation______.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="300">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PerfectSquares.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/PerfectSquares.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/ProductOfArrayExceptSelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="140">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PartitionEqualSubsetSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/PartitionEqualSubsetSum.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/RandomizedSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/NumMatrix.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/RotateImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="140">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximumProductSubarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/MaximumProductSubarray.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/Search2DMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="260">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaximalSquare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/MaximalSquare.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SearchRotatedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="280">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestIncreasingSubsequence.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LongestIncreasingSubsequence.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SearchRotatedArrayII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LargestDivisibleSubset.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LargestDivisibleSubset.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SortColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="460">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerBreak.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/IntegerBreak.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SpiralMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="63" />
-              <folding />
+            <state relative-caret-position="155">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoinChange.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/CoinChange.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SpiralMatrixII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="100">
+              <caret line="5" column="50" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>maxEnvelopes</find>
-      <find>Arrays.binarySearch</find>
-      <find>”</find>
-      <find>import org.junit.jupiter.api.Test;</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>&quot;</replace>
-      <replace>import org.junit.Test;</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/MaximumXOROfTwoNumbersTest.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/ValidWordSquareTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/ValidWordSquare.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/array/MaximumSubarray.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/array/MaximumSubarrayTest.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/array/LongestIncreaseSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/array/LongestIncreaseSubsequence.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/array/LongestIncreaseSubsequenceTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/backtracking/LongestPossibleRouteInMatrix.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/backtracking/LongestPossibleRouteInMatrixTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/backtracking/PermutationString.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/backtracking/PermutationStringTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/binarytree/NextNode.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/binarytree/LeftView.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/divideConquer.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/OccuranceTest.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/divideConquer/OccuranceTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/divideConquer/Occurance.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/dynamicprogramming/KnapsackTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/dynamicprogramming/Knapsack.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/dynamicprogramming/WordBreak.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/dynamicprogramming/WordBreakTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/Combination.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/careercup/sde1/CobinationStringTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/Permutation.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/ArrayRearrange.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/Sort.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/careercup/sde1/EditDistance.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/careercup/sde1/EditDistanceTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/techindelight/matrix/FindPath.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/techindelight/matrix/FindPathTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/FindAllNumbersDisappearedInArray.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/ShortestWordDistance.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/MinimumPathSum.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/UniquePath.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/MaximalSubArraySumEqualsToK.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/string/LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/backtracking/RemoveInvalidParenthesis.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/backtracking/RemoveInvalidParenthesisTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindCelebrity.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/hashtable/MinimumWIndowSubstringTest.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/FindPeakElementTest.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/careercup/sde1/ArrayRearrangeTest.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInABSTTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/MaxSumOfRectangleNoLargerThanK.java" />
-        <option value="$PROJECT_DIR$/test/java/com/felix/interview/programcreek/MedianFinderTest.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/programcreek/MedianFinder.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddresses.java" />
-        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/FourSumII.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/DecodeWays.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/PalindromPermutationII.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/binarytree/LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/LowestCommonAncestorBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/UniqueBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/IsSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrix.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrix.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSum.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSumII.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindAllDuplicates.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindMinRotatedArray.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MatrixZeros.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MergeInterval.java" />
+        <option value="$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySum.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="25" />
     <option name="y" value="23" />
-    <option name="width" value="1257" />
-    <option name="height" value="813" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hashtable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backtracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="medium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="binarytree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="binarysearch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backtracking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="array" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="easy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="techindelight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/felix/IdeaProjects/leetcode/src/java/com/felix/interview/leetcode/hard/string/InterleavingString.java" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.felix.interview.techindelight.divideConquer" />
-      <recent name="com.felix.interview.techindelight.array" />
-      <recent name="com.felix.interview.leetcode" />
-      <recent name="com.felix.interview.leetcode.medium.hashtable" />
-      <recent name="com.felix.interview.leetcode.hard.array" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.felix.interview.leetcode.hard.array" />
-      <recent name="com.felix.interview.techindelight.array" />
-      <recent name="com.felix.interview.leetcode.medium.binarytree" />
-      <recent name="com.felix.interview.leetcode.easy.binarytree" />
-      <recent name="com.felix.interview.leetcode.easy.stack" />
-    </key>
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548350340528" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1023,1220 +316,448 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestSubstringWIthoutRepeatingTest.test1">
-    <configuration default="false" name="FindPathTest.testMatrixTopLeftToBottomRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+  <component name="RunManager">
+    <configuration name="Search2DMatrixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.felix.interview.techindelight.matrix.*" />
+          <option name="PATTERN" value="com.felix.interview.leetcode.medium.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.felix.interview.techindelight.matrix" />
-      <option name="MAIN_CLASS_NAME" value="com.felix.interview.techindelight.matrix.FindPathTest" />
-      <option name="METHOD_NAME" value="testMatrixTopLeftToBottomRight" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
+      <option name="PACKAGE_NAME" value="com.felix.interview.leetcode.medium.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="com.felix.interview.leetcode.medium.binarysearch.Search2DMatrixTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="false" name="RemoveInvalidParenthesisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.felix.interview.leetcode.hard.backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.felix.interview.leetcode.hard.backtracking" />
-      <option name="MAIN_CLASS_NAME" value="com.felix.interview.leetcode.hard.backtracking.RemoveInvalidParenthesisTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MinimumWIndowSubstringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.felix.interview.leetcode.hard.hashtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.felix.interview.leetcode.hard.hashtable" />
-      <option name="MAIN_CLASS_NAME" value="com.felix.interview.leetcode.hard.hashtable.MinimumWIndowSubstringTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="MedianFinderTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.felix.interview.programcreek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.felix.interview.programcreek" />
-      <option name="MAIN_CLASS_NAME" value="com.felix.interview.programcreek.MedianFinderTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="LongestSubstringWIthoutRepeatingTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.felix.interview.leetcode.medium.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="leetcode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.felix.interview.leetcode.medium.string" />
-      <option name="MAIN_CLASS_NAME" value="com.felix.interview.leetcode.medium.string.LongestSubstringWIthoutRepeatingTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="leetcode" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FindPathTest.testMatrixTopLeftToBottomRight" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RemoveInvalidParenthesisTest.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.MinimumWIndowSubstringTest.test1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MedianFinderTest.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LongestSubstringWIthoutRepeatingTest.test1" />
-    </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LongestSubstringWIthoutRepeatingTest.test1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MedianFinderTest.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MinimumWIndowSubstringTest.test1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RemoveInvalidParenthesisTest.test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FindPathTest.testMatrixTopLeftToBottomRight" />
+      <list>
+        <item itemvalue="JUnit.Search2DMatrixTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="762142d0-ef67-4561-aad7-74c75e6c9181" name="Default" comment="" />
-      <created>1485236791791</created>
+      <changelist id="6fec0472-c350-4497-961c-7cf3b38321d2" name="Default Changelist" comment="" />
+      <created>1542215698857</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1485236791791</updated>
+      <updated>1542215698857</updated>
+      <workItem from="1546538514666" duration="9543000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindPathTest_testMatrixTopLeftToBottomRight - 2017.04.16 at 15h 24m 54s.xml">
-      <configuration name="FindPathTest.testMatrixTopLeftToBottomRight" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestSubstringWIthoutRepeatingTest_test1 - 2017.04.30 at 17h 38m 24s.xml">
-      <configuration name="LongestSubstringWIthoutRepeatingTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MedianFinderTest_test - 2017.04.30 at 14h 06m 26s.xml">
-      <configuration name="MedianFinderTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MedianFinderTest_test - 2017.04.30 at 14h 07m 19s.xml">
-      <configuration name="MedianFinderTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MedianFinderTest_test - 2017.04.30 at 14h 08m 02s.xml">
-      <configuration name="MedianFinderTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MinimumWIndowSubstringTest_test1 - 2017.04.29 at 15h 10m 50s.xml">
-      <configuration name="MinimumWIndowSubstringTest.test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PermutationStringTest_test - 2017.04.15 at 13h 45m 20s.xml">
-      <configuration name="PermutationStringTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PermutationStringTest_test - 2017.04.15 at 13h 46m 08s.xml">
-      <configuration name="PermutationStringTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PermutationStringTest_test - 2017.04.15 at 13h 48m 08s.xml">
-      <configuration name="PermutationStringTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveInvalidParenthesisTest_test - 2017.04.23 at 19h 19m 12s.xml">
-      <configuration name="RemoveInvalidParenthesisTest.test" configurationId="JUnit" />
+    <history-entry file="Search2DMatrixTest - 2018.12.31 at 14h 41m 59s.xml">
+      <configuration name="Search2DMatrixTest" configurationId="JUnit" />
     </history-entry>
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9543000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="23" width="1257" height="813" extended-state="0" />
-    <editor active="true" />
+    <frame x="25" y="23" width="1680" height="963" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32258064" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997175" sideWeight="0.50285715" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3360215" sideWeight="0.49714285" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30469373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39247313" sideWeight="0.49714285" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22161172" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Buck" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32900944" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/FindAllNumbersDisappearedInArray.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/PascalTriangleII.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/array/PlusOne.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SummaryRanges.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MergeInterval.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/JumpGame.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/JumpGame.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/RotateImage.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/java/com/felix/interview/leetcode/hard/array/RandomizedCollectionTest.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/BestTimeToBuyStockIII.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/LargestRectangleInHistogram.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/array/LargestRectangleInHistogram.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/LetterCombinationsOfAPhoneNumber.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/LongestSubstringWithoutRepeating.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/binarysearch/SplitArrayLargestSum.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/binarysearch/SplitArrayLargestSum.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/DungeonGame.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrix.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="49" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrix.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/LongestIncreaseSubsequence.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/FindPeakElement.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/ArithmeticSlicesII.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/FrogJump.java</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/FrogJump.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/LongestPalindromicSubsequence.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/WordBreakII.java</url>
-          <line>39</line>
-          <properties />
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/BestTimeToBuyAndSellStockIV.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/dp/BurstBalloons.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/CountingBits.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/BestTimeToBuyAndSellStockWithCooldown.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LargestDivisibleSubset.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LargestDivisibleSubset.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LongestIncreasingSubsequence.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <condition expression="parts.get(0).equals(&quot;255&quot;) &amp;&amp; parts.get(1).equals(&quot;255&quot;)" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddresses.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/Permutations.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/PalindromePartitioning.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/SubsetII.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/GrayCode.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/easy/stack/MyStack.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/NumberOfIslands.java</url>
-          <line>36</line>
-          <properties />
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/NumberOfIslands.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/PathSumII.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/bfs/SurroundedRegions.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/bitmanipulation/MaximumXOROfTwoNumbers.java</url>
-          <line>33</line>
-          <properties />
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/ValidWordSquare.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/com/felix/interview/techindelight/divideConquer/Occurance.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="101" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="107" />
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="s.charAt(i)" language="JAVA" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/stack/RemoveDuplicateLetters.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/HIndexII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="5" column="60" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/IsSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySum.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInABST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/Subset.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/KthSmallestElementInSortedMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="390">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/SubsetII.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/LongestIncreaseSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="80" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/string/EditDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/MinimumPathSum.java">
+    <entry file="file://$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindCelebrity.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarysearch/Search2DMatrixII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="26" column="36" lean-forward="false" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSumIII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FourSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MaximumProductSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/ProductOfArrayExceptSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/Search2DMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-73">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SparseMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SortColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SpiralMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SpiralMatrixII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SummaryRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-436">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/WordSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="19" column="9" selection-start-line="11" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="90">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/GrayCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/PermutationsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/Subset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/UniqueBinarySearchTreeII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/UniqueBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/techindelight/array/LongestIncreaseSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/techindelight/array/MaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/backtracking/RestoreIPAddresses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding>
-            <element signature="e#392#400#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/LowestCommonAncestorBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="86" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="86" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/binarytree/MostFrequentSubtreeSum.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="465">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/bitmanipulation/MaximumXOROfTwoNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/CombinationSumIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/FourSumII.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindAllDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/list/AddTwoNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindCelebrity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="165">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/list/SortList.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindDuplicateNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-724">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/DecodeWays.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindMinRotatedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/hashtable/SortCharactersByFrequency.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FindPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/LongestPalindromSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="324">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/LetterCombinationsOfAPhoneNumber.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="248">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/java/com/felix/interview/leetcode/medium/string/LongestSubstringWIthoutRepeatingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/GameOfLife.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/string/LongestSubstringWithoutRepeating.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/HIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/JumpGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MajorityElementsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MatrixZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MaximumProductSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/dp/UniquePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MergeInterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/MinimumSubArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/NextPermutation______.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/WordBreak.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/ProductOfArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="140">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/UniqueBinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/RandomizedSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/RemoveDuplicateFromSortedArrayII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="660">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/TargetSum.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/RotateImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="140">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/PerfectSquares.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/Search2DMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="260">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/PartitionEqualSubsetSum.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SearchRotatedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="280">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/NumMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SearchRotatedArrayII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/MaximumProductSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/hard/string/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="181">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/MaximalSquare.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LongestIncreasingSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="460">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/LargestDivisibleSubset.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SpiralMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="155">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/IntegerBreak.java">
+    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/array/SpiralMatrixII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/com/felix/interview/leetcode/medium/dp/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="5" column="50" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Created by felix on 1/29/17.
  * 442
+ * https://leetcode.com/problems/find-all-duplicates-in-an-array/
  */
 public class FindAllDuplicates {
     public List<Integer> findDuplicates(int[] nums) {

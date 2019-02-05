@@ -2,6 +2,8 @@ package com.felix.interview.leetcode.medium.array;
 
 /**
  * Created by felix on 1/31/17.
+ * https://leetcode.com/problems/minimum-size-subarray-sum/
+ * 
  */
 public class MinimumSubArraySum {
     public int minSubArrayLen(int s, int[] nums) {

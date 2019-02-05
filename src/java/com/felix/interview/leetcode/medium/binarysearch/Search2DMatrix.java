@@ -4,6 +4,8 @@ package com.felix.interview.leetcode.medium.binarysearch;
  * Created by felix on 2/25/17.
  * 74
  * https://leetcode.com/problems/search-a-2d-matrix/?tab=Description
+ *
+ * The input is really one contiguous array that is chopped into m equal pieces
  */
 public class Search2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
@@ -20,6 +22,6 @@ public class Search2DMatrix {
                 hi = mid - 1;
             }
         }
-        return matrix[lo/row][lo%row] == target;
+        return matrix[lo/col][lo%col] == target;
     }
 }

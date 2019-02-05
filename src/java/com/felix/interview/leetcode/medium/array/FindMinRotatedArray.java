@@ -1,7 +1,11 @@
 package com.felix.interview.leetcode.medium.array;
 
 /**
+ *
  * Created by felix on 2/2/17.
+ *
+ * https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+ *
  */
 public class FindMinRotatedArray {
     public int findMin(int[] nums) {
